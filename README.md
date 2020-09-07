@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/tatianabarbone" rel="nofollow">
   <img alt="tatiana| LinkedIN" width="35px" src="https://camo.githubusercontent.com/0d99f88f3d0973143633f555f298f13fadb25062/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313436352e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111465.svg" style="max-width:100%;">
 </a> 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tatianabarbone)
 
 #### I'm a fourth-year undergraduate student 👩‍🎓 <a href="https://www.sandiego.edu/engineering/">@USD</a> studying Computer Science.
