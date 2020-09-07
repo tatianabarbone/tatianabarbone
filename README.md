@@ -1,15 +1,13 @@
 # Hi! I'm <a href="https://tatianabarbone.github.io" rel="nofollow">Tatiana</a> 💙 
 
 <!-- Socials -->
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b39d6e87eafd0e8e55f24adf5cefd33450a7a978/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6a77656e6a69616e2e76697369746f722d6261646765">
 
 <a href="https://twitter.com/tatianabarbone" rel="nofollow">
   <img alt="tatianabarbone | Twitter" width="35px" src="https://camo.githubusercontent.com/8236081a8c1b78a8e5974f09d87a7b6ca767a4b6/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313730332e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111703.svg" style="max-width:100%;">
   
 <a href="https://www.linkedin.com/in/tatianabarbone" rel="nofollow">
   <img alt="tatiana| LinkedIN" width="35px" src="https://camo.githubusercontent.com/0d99f88f3d0973143633f555f298f13fadb25062/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f323131312f323131313436352e737667" data-canonical-src="https://image.flaticon.com/icons/svg/2111/2111465.svg" style="max-width:100%;">
-</a>
-
+</a> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tatianabarbone)
 
 #### I'm a fourth-year undergraduate student 👩‍🎓 <a href="https://www.sandiego.edu/engineering/">@USD</a> studying Computer Science.
