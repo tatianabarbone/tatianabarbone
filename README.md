@@ -1,4 +1,4 @@
-# Hi! I'm <a href="https://tatianabarbone.github.io" rel="nofollow">Tatiana</a> 💙 
+# Hi!<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" style="max-width:100%;"></a>I'm <a href="https://tatianabarbone.github.io" rel="nofollow">Tatiana</a> 💙 
 
 <!-- Socials -->
 
