@@ -14,11 +14,12 @@
 #### I'm a fourth-year undergraduate student 👩‍🎓 <a href="https://www.sandiego.edu/engineering/">@USD</a> studying Computer Science.
 
 #### 👩‍💻 I’m Currently Working On: 
-  - Building My Personal Portfolio
+  - becoming a data scientist
   
 #### 📖 I’m Currently Learning: 
-  - HTML, CSS, JavaScript
-  - SQL for Database Management
+  - computer graphics
+  - numerical analysis
+  - how operating systems work
   
 #### 🔭 Fields I'm Interested In: 
   - Data Science 
