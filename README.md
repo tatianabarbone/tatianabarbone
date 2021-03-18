@@ -18,7 +18,7 @@
   
 #### 📖 I’m Currently Learning: 
   - computer graphics
-  - numerical analysis
+  - algorithms
   - how operating systems work
   
 #### 🔭 Fields I'm Interested In: 
