@@ -14,6 +14,7 @@
 #### I'm a new computer science graduate from <a href="https://www.sandiego.edu/engineering/">The University of San Diego </a> 👩‍🎓
 
 #### 👩‍💻 I’m Currently Working On: 
+  - teaching kids how to code!
   - using data to solve problems
   
 #### 🔭 Fields I'm Interested In: 
