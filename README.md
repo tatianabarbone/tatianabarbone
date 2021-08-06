@@ -11,10 +11,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tatianabarbone)
 
-#### I'm a new computer science graduate from <a href="https://www.sandiego.edu/engineering/">The University of San Diego </a> 👩‍🎓
+#### I'm a software engineer at <a href="https://delltechnologies.com">Dell Technologies</a> and a recent computer science graduate from <a href="https://www.sandiego.edu/engineering/">The University of San Diego </a> 👩‍🎓
 
 #### 👩‍💻 I’m Currently Working On: 
-  - teaching kids how to code!
+  - being a software engineer
   - using data to solve problems
   
 #### 🔭 Fields I'm Interested In: 
