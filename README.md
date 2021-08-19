@@ -13,8 +13,7 @@
 
 #### I'm a software engineer at <a href="https://delltechnologies.com">Dell Technologies</a> and a recent computer science graduate from <a href="https://www.sandiego.edu/engineering/">The University of San Diego </a> 👩‍🎓
 
-#### 👩‍💻 I’m Currently Working On: 
-  - being a software engineer
+#### 👩‍💻 I’m Currently Working On:
   - using data to solve problems
   
 #### 🔭 Fields I'm Interested In: 
